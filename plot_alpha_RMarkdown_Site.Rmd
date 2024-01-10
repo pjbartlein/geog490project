@@ -54,7 +54,7 @@ world_outline <- as(st_geometry(world_shp), Class="Spatial")
 
 ```{r plot_shapefile}
 # plot the world outlines
-plot(world_outline, col="blue", lwd=1)
+plot(world_outline, col="lightblue", lwd=1)
 ```
 
 ## Read alpha ##
