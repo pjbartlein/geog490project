@@ -15,6 +15,8 @@ knitr::opts_chunk$set(dev='png', dpi=300, cache=TRUE)
 pdf.options(useDingbats = TRUE)
 ```
 
-The visualization developed here uses the `raster` and `rasterVis` packages to map the global 
+The visualization developed here uses the `{terra}` and `{rasterVis}` packages to map the global 
 pattern of alpha, calculated using the CRU CL2 climate data set.  The maps also include a 
-shapefile of world coastlines and countries.
+world outline with coastlines and country borders.
+
+More introductory material...

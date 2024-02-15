@@ -7,7 +7,7 @@ navbar:
     - text: "Introduction"
       href: intro.html
     - text: "Raster mapping example"
-      href: plot_alpha_RMarkdown_Site.html
+      href: alpha_plot_RMarkdown_Site.html
   right:
   - text: "About"
     href: about.html
