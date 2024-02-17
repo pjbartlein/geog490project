@@ -13,4 +13,4 @@ RnwWeave: Sweave
 LaTeX: pdfLaTeX
 
 BuildType: Website
-WebsitePath: ~/Dropbox/DataVis/working/geog490project
+WebsitePath: ~/Projects/geog490project
