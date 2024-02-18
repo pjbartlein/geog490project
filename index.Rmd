@@ -22,4 +22,5 @@ Topics covered here include:
 
 - An introduction to the project
 - A simple example of plotting a raster slice
+- about the web site
 - (more to come…)
